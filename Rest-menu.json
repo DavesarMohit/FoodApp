@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Dal Makhani",
+  "image": "dal.jpg",
+  "price": "160",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Chana Masala",
+  "image": "chana.jpg",
+  "price": "160",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Kadai Paneer",
+  "image": "Kadahi.jpg",
+  "price": "180",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Dal Fry",
+  "image": "DalFry.jpg",
+  "price": "140",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Kadhi Pakora",
+  "image": "Kadhi.jpg",
+  "price": "120",
+  "size": "Full"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Butter roti",
+  "image": "Butter.jpg",
+  "price": "20",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Stuffed Nan",
+  "image": "Nan.jpg",
+  "price": "40",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Lassi",
+  "image": "Lassi.jpg",
+  "price": "50",
+  "size": "full"
+}]
